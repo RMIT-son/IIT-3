@@ -1,2 +1,3 @@
 # IIT-3
-#Commit your files into the main folder
+#Make your personal branches
+#Commit files into your corresponding files
