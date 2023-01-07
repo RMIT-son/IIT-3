@@ -48,5 +48,10 @@
 }
 .bottom_content{
     background-color:rgb(179, 82, 82);
+}
 
+@media (min-width: 501px) and (max-width: 750px) {
+    .picture_block {
+        grid-template-columns: 1fr 1fr 1fr;
+    }
 }
