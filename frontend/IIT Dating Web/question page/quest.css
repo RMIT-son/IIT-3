@@ -1,15 +1,36 @@
 body {
     background-color: #941e18;
 }
-h1 {
+	h1 {
     color: #fdbbf4;
     text-align: center;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 30.9px;
+    font-weight: 300;
+    font-style: italic;
 }
-.button {
-    margin: 0;
+	.button {
     text-align: center;
     padding: 10px;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 23px;
+    background-color: #ffe8d9;
+    border: 1px black solid;
+    margin: auto;
+    width: 20%;
+    height: 50px;
+    border-radius: 30px;
+    box-sizing: border-box;
 }
-h3{
+	.answer {
+    padding-top: 100px;
+}
+	h3{
     color: white;
+    font-family: 'Open Sans', sans-serif;
+    font-size: 24.7px;
+    font-weight: 900;
+}
+    img{
+    width: 100%;
 }
