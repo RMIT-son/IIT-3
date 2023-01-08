@@ -1,0 +1,49 @@
+<!DOCTYPE html>
+<html>
+  <head>
+    <title>Profile
+    </title>
+    <link rel="stylesheet" href="just.css">
+  </head>
+  <body>
+    <div class="main_grid">
+        <div class="nav_bar">
+            <div>
+                *icon*
+            </div>
+            <div>Your profile</div>
+            <div>*new post icon</div>
+            <div>*setting icon</div>
+            <div>sth</div>
+        </div>
+        <div class="side_bar">hi</div>
+        <div class="main_content">
+          <div class="picture_block">
+            <img class="upload_pic" src="profile.jpeg" alt="Italian Trulli">
+            
+          </div>
+          <div class="picture_block">
+            <img class="upload_pic" src="profile.jpeg" alt="Italian Trulli">
+            
+          </div>
+          <div class="picture_block">
+            <img class="upload_pic" src="profile.jpeg" alt="Italian Trulli">
+            
+          </div>
+          <div class="picture_block">
+            <img class="upload_pic" src="profile.jpeg" alt="Italian Trulli">
+          </div>
+          <div class="picture_block">
+            <img class="upload_pic" src="profile.jpeg" alt="Italian Trulli">
+            
+          </div>
+          <div class="picture_block">
+            <img class="upload_pic" src="profile.jpeg" alt="Italian Trulli">
+            
+          </div>
+        </div>
+        
+        <div class="bottom_content">Dating RMIT policies</div>
+    </div>
+  </body>
+</html>
