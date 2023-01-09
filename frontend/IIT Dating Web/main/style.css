@@ -1,0 +1,15 @@
+body {
+    background-color: #941e18;
+}
+section {
+    margin: auto;
+    width: 30%;
+    height: 280px;
+    background-color: #ffe8d9;
+    border-radius: 20%;
+    box-sizing: border-box;
+}
+h2, button {
+    align-items: center;
+}
+
